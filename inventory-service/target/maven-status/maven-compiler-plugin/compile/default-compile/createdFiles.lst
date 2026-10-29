@@ -1,0 +1,4 @@
+dev/demo/inventory/InventoryApplication.class
+dev/demo/inventory/StockReservationRepository.class
+dev/demo/inventory/StockReservation.class
+dev/demo/inventory/InventoryController.class
