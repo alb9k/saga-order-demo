@@ -1,6 +1,0 @@
-dev/demo/order/OrderRepository.class
-dev/demo/order/OrderApplication.class
-dev/demo/order/OrderController$CreateOrder.class
-dev/demo/order/SagaOrchestrator.class
-dev/demo/order/OrderEntity.class
-dev/demo/order/OrderController.class
